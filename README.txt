@@ -1,9 +1,5 @@
-WEEKLY IRRIGATION SCHEDULER — DRAFT 4
+WEEKLY IRRIGATION SCHEDULER — DRAFT 5
 
-Upload index.html to the root of your existing GitHub Pages repository, replacing the existing index.html.
+Change: The date/week selection is now inside Add / Edit Job, immediately before farm selection. Weekly Schedule remains above the editor, with separate Previous/Next buttons for browsing the schedule.
 
-Export a backup in Draft 3 before updating. The existing local storage key is preserved.
-
-New: three-column schedule, grouped farms, tap a row to edit, delete from edit form, first repeated fertigation keeps its products and future occurrences have products unassigned.
-
-Note: Existing repeated jobs created in Draft 3 are not automatically modified. Edit future occurrences individually if needed.
+Upload index.html to the root of your existing GitHub Pages repository, replacing the old file. Export a backup first. Browser-local saved jobs use the same storage key as earlier drafts.
