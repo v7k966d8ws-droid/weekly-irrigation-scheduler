@@ -1,5 +1,3 @@
-WEEKLY IRRIGATION SCHEDULER — DRAFT 5
-
-Change: The date/week selection is now inside Add / Edit Job, immediately before farm selection. Weekly Schedule remains above the editor, with separate Previous/Next buttons for browsing the schedule.
-
-Upload index.html to the root of your existing GitHub Pages repository, replacing the old file. Export a backup first. Browser-local saved jobs use the same storage key as earlier drafts.
+Weekly Irrigation Scheduler — Draft 6
+Upload index.html to your existing GitHub Pages repository. Export a backup first.
+Changes: compact day/farm/outlet controls, radio job types, two-column product checkboxes. Schedule and repeat logic retained.
