@@ -1,0 +1,5 @@
+Draft 8.1 — imported farm/outlet hectares from Rapid Planner Test 5.
+59 outlets matched. Existing saved area edits are preserved.
+Unmatched (not guessed): Strathdee 9, Strathdee 10
+Strathdee Rapid Planner has 9T, 9B and 10B, while Weekly Scheduler lists 9, 10 and 10B. Confirm mapping before assigning 9/10.
+Injector flow rates must still be entered/calibrated in Setup.
